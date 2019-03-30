@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d70e2ec1-9036-4657-a74a-17db9e9f885a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kassim/DeliPack/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kassim/DeliPack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1024px-Bete_mask_p1070041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1024px-Brooklyn_Museum_74.64_Helmet_Mask_ndoli_jowei_for_Sande_Society.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../585senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../588dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../590senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../593fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../600baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../608cameroon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../616idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../623624senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../625lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../626fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../637guerewobe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../639idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../644igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../647dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../649igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../657senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../659yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../660bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../662toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../663idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../668namji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../669mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../670mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../671igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../675fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../676igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../677idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../678yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../679bamileke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../686guerewobe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../687yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../688toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../695yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../705drc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../706boa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../711lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../718lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../720lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../725senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../727bembe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../729bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../732marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../734senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../735akye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../736we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../737we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../739senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../740we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../741danguere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../742benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../743benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../744ife.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../745benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../746benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../747benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../748benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../749bamileke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../754bamileke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../764lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../765lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../768dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../771we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../773bijago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../777bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../779igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../781igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../782pende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../785toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../788toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../798baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../799baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../800px-Royal_Museum_for_Central_Africa_Wood_Mask_With_Copper_Plates.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../800px-Traditional_dogon_masque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../803-4kissi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../808dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../818bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../826mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../831.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../834lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../836yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../839yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../845mbete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../846igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../848igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../849bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../852kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../854lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../861yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../862lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../866yaruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../883kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../891lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../898lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../899kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../904toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../910kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../911boa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../912bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../913baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../914baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../917mumuye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../919dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../920idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../925lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../931mano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../933bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../934marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../945yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../947senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../951bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../954marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../956.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../957marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../959mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../960mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../961mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../962kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../963bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../969.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../985mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../986baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../988baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../990senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../992baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9955.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../995baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9963.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../997dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../998dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A001baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A002baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A003baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A004yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A005baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A006senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A008baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A009senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A010senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A015yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A017eket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A018bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A020yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A022bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A024fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A027toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A030ejaghamA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A033dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A034dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A043senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A049igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A056bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A057baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A058dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A059bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A065ejagham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A066bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A067bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A072dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A073senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A075bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A076we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A077we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A078we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A080grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A081bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A082baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A083bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A086igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A087igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A091lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A092lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A094bamileke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A098cameroon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A107bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A114marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A115dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A116dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A118bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A122bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A123benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A126baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A133lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A137bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A138bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A139bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A140lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A164yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A165baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A170boa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A177lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A178lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A180koma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A183mumuye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A185boa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A188bamileke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A191idoma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A195dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A196yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A197yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A198yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A199baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A203we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A209baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A211baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A212bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A214akye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A215akye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A219bete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A221senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A226baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A241yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A245baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A248igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A249lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A257yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A261benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A263yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A264yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A267senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A268we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A270chamba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A271mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A275kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A279fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A280baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A285baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A286mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A290baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A291kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A298bembe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A304bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A307bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A312lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A322dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A324namji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A325fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A329bwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A332lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A338mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A339mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A340kissi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A349mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A352lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A358lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A361dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A362mumuye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A364fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A369grebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A371dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A372toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A373fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A374bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A376baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A398mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A406bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A417benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A418bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A419asante.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A421bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A424igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A425bemba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A428eket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A430igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A439kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A445ibibio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A449igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A454namji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A459mumuye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A461bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A462dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A463bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A464bete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A466guro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A472igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A473fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A477lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A478yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A481bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A488grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A495igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A499grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A500grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A502fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A506fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A511lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A528cameroon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A531igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A533igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A534fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A535fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A536fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A537fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A538kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A541dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A545baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A548dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A551grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A552fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A553ejagham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A555mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A557fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A560igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A561igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A562baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A562senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A563igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A564kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A568igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A569baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A576fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A578marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A580yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A583kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A590mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A591benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A592benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A598mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A599benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5K9S420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5K9S420S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A600dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A601dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A613yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A615lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A620dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A628igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A633lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A641fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A652igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A653igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A656mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A657fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A661igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A662igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A663grebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A676igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A677igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A688baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A689igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A694baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A698bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6K9S286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A702fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A703senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A704mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A705mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A727grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A728grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A730grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A732benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A733ife.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A735benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A746ife.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A747namji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A749benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A751grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A760nuna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A764baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A766baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A768benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A769yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A772mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A774igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A775yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A776yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A779ejagham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A780ejagham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A781baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A785igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A786fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A787fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A791bemba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A793dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A798lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7K9S314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7K9S314R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7K9S314S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A809grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A810igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A815fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A820mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A826senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A827senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A828bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A829bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A833yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A834mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A836fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A837fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A842marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A843yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A850baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A855mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A856toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A859fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A860koro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A862grebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A864lobi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A866A867baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A869mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A872mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A873mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A874mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A876baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A878fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A879lobi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A887akye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A8K9S286S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A904we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A905kurumba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A911fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A914senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A916dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A947senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A952yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A953igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A954baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A955fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A959geh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A964dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A968nomoli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A975igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A977mbete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A979baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A980yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A981yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A982dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A983kurumba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A984bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A992grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A993benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A994benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A997yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A998yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A999yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9AM9M438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9AM9M438S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9K9S285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9K9S285S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B000yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B001baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B014yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B016bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B020yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B024lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B033dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B035dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B036dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B039toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B042benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B047mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B059koro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B067yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B074kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B080mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B084igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B086igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B090guro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B092guro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B094grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B095mbete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B097baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B0MB8S849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B100baule.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B108koro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B109yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B110yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B111dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B113grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B119mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B129kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B133fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B134fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B151fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B152fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B154mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B155mende.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B157igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B170we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B172baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B180asante.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B182grebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B190fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B191dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B195marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B197lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B1B9M546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B1B9M546S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B1MB7M480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B1MB7M480S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B1MB9S163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B200fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B202kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B203chamba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B204bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B211bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B213yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B217yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B221bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B228mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B229yohure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B230ligbi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B231ligbi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B235benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B239benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B240benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B245kwele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B255bwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B279bwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B280bwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B283lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B2B9M496.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B2B9M496S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B2MB9S087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B301mambila.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B307ijo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B309igbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B313baga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B316dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B319fang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B326lulua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B337benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B339bemba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B341guro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B357ibibio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B361mumuye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B368benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B373dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B374mama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B379benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B384dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B412koro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B430we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B431yoruba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B434grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B435bamum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B439benin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B448ligbi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B449ogoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B452guro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B482dogon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B486bembe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B487we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B495bwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B497mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B499toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B4MB8S733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B500we.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B508bambara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B514toma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B517bobo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B518senufo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B527kissi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B529marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B539marka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B559mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B563mossi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B570grassland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B571ife.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B5MB7M985.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B5MB7M985S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B5MB8S700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B6B9M605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B6MB7M951.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B6MB7M951S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B7MB7M950.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B7MB7M950S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B8B9M547.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B8M9S720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B8MB7S853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B9B8M663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B9B8M663S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B9M9S666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bronze_Legend_D1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bronze_Legent_Side3_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Brooklyn_Museum_22.1582_Mwaash_aMbooy_Mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Brooklyn_Museum_60.144_Mask_Wabele_or_Wo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D0M9M317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D0M9M317R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D0M9M317S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D2M9M199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D2M9M199R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D2M9M199S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D3M9M065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D3M9M065S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D4I9M932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D5I9M413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D5M9M923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D5M9M923R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D5M9M923S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D6M8M705-F2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D6M8M705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D6M8M705S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D6M9S815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D7I9S295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D7M8M662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D7M8M662R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D7M8M662S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D7M9M542.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D8M8M661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D8M8M661R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D8M8M661S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D9M8M408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D9M8M408S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DT1234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dinak tribe_Southern Sudan 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E0W9M968.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E0W9M968S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E1W7M636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E1W7M636S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E1W8M319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E1W8M319S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E1W9M688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2W7M635.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2W7M635S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2W8M291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2W8M291S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2W9M687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E3W7M619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E3W7M619S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E3W8M290.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E3W8M290S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E4W7M579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E4W7M579S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E4W9M567.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E5W8M125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E5W8M125S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E6W8M124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E6W8M124S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E6W9M293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7B9M791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7W7M430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7W7M430R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7W7M430S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7W8M009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7W8M009S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E8W8M008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E8W8M008S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E8W9M996.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E9W7M366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E9W7M366S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E9W8M971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E9W8M971S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E9W9M838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F1S9S477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F2S7S745.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F2S7S745R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F2S7S745S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F2S9S303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F3S7M414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F3S7M414S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F3S9S284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F4S9S989.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F5S7O472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F5S7O472D1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F5S7O472D2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F5S7O472R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F5S8M789.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F6S8S788.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F7S7O972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F7S7O972R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F7S7O972S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F7S8S735.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F8S7F933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F8S7M933D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F8S7M933R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F8S7M933S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F8S9S588S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F9S7S891.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F9S7S891R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F9S7S891S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F9S9S581.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fang_Ngil_Berlin_IIIC6000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G0B9S120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G0B9S120R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G0B9S120S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1B8M585 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1B8M585.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1B8M585S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1B9O041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1B9O041T.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D5S665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D5S665R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D5S665S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D7M068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D7M068S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1D9S206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1I6S369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G1I6S369S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B8S516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B8S516R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B8S516S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B9O999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B9O999R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2B9O999S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2D5O521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2D5O521P.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G2I8S250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3B8S515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3B8S515R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3B8S515S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3D5M473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3D5M473D1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G3I8S085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4B9M862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4D5M465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4D5M465S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4D7021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4D7S021R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G4D7S021S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5B9S800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5D6B217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5D7B018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5D7B018R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5D7B018S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G5I7M442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6B8M370S (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6B8M370S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6B9S699.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6D7M949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6D7M949S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G6D9S071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7B9S424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7D5M459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7D5M459S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7D9S117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7O9M691.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G7O9M691S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8B9S297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D6B146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D6B146D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D7M908.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D7M908D1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D7M908R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D7M908S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8D9S013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8I5M683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8I5M683R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8I5M683S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8O9M445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G8O9M445S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9B8S150R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9B8S150S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9B9S150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9B9S993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D5S288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D5S288S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D5S293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D5S293S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D6B111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D6B111R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D6B111S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D7S941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D7S941D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9D7S941T.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9I9M586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9O9M444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../G9O9M444S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geh.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H0Y9M272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H0Y9M272S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H5Y8M548.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H5Y8M548S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H6Y9M081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H6Y9M081S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H7Y9M896.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H7Y9M896S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H8Y8M331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H8Y8M331D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H8Y8M331S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H8Y9M844.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H9Y8M273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H9Y8M273S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H9Y9M325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I6L9M623.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I6L9M623S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I7K9S193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I7L9M105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I7L9M105S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I8K9S077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I8L9M077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I8L9M077S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I9K9S002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J4E9M456S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J5B9M749.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J5B9M749S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J5E9M129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J5E9M129S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J6E9M128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J6E9M128S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J7E9M415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J8B9S121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J9B9M031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J9E9M922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K8E9M064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K9E9S011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L0L9M635-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1L7S942.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1L7S942R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1L7S942S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1L9M627.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2L7M894.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2L7M894S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2L8M669.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3L8M664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4K9S727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4K9S727S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4L6S490.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4L6S490R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4L6S490S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4L7M865.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5L6M304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5L6M304S.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5L7S807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5L9M179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6L7S756.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6L9M988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6L9S141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8K9M553.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8L7M721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L9L7S710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abebe-aberber-Ghana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adouma 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adouma.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aduma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ambete01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anyi01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anyi02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti.combs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti.doll.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti.stools.bronze.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ashanti15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../attye01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../attye02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga snake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga.nimba.large.nimba1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baga04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara 07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara 13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara 15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.figure1.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.largemask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.mask (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.mask1 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.mask1.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.maternity1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara.tjiwara1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bambara11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamileke.soldure1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamileke.twins - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamileke.twins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamum.helmet - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamum.helmet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamum.helmet.large1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bamum.helmet_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basa.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basa.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule 14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule 15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.female.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.kplekpe.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.male.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask1 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask2y - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask2y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.mask4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.shield - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule.shield.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baule12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bembe 01-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benin.bronze.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../benin.small.head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../berber1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../berber2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bete 02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bete.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bete.mask1 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bete.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bete01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bijago01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boa.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boa.statue1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boa01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bobo.02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bobo.mask.bull.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwa 05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwa.butterfly.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwa.plank.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwa04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon norht 04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon north 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon north 02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon north 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.beadedfetish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.elefant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.hypo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.kilin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.mask.2men.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.mask.bull.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon.mask.cow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroon7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cameroonstool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cemeroon 8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dagon 11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dagon10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan 08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan 09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan 11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan.kilin.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan.mask1y - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan.mask1y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dan_kono 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dangese2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delipack/public/js/delipackjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/delipack/public/js/delipackjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delipack/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/delipack/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dengese.statue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dengese03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djimini01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon 08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon 09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.ark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.couple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.door.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.horesman.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.rain.statue1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.statue.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon.stuffhandle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dogon07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duma.mask.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egypt01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egypt02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egypt03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ekoi.mask.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ekoi01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ethiopia01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ethiopia02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ewe.doll.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ewe01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ewe02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ewe03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ewe04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang 05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang 07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.largest.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.mask.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.mask.large.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.mask2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fang02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fante 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fante.small1..g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fante.small2.g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fante04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanti01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanti02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geh.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geh.mask2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gimini 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grebo01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre-wobe01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre-wobe02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre-wobo.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guerre04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guro.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.315_av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.365_av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.365_av2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.382_av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.382_av2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.382_av3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1978.412.489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1979.206.41 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1979.206.41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1979.206.71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb_1979.206.71_av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba 01-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba.female.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hemba05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hembe.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo 05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo.statue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ibo04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idoma.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idoma01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../igala01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../igala02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ijo.imolemask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe  07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.cheif.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.comb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.dualstatue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.helmet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.mask.small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe.withfeathers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwe06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jokwehelmet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaguru (tanzania).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kenya.turist.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kfj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kisi01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo.fetish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kongo08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kota 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kota01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kota02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba.cup.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba.cup1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba.drum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba.helmet1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba.helmetsmall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kuba16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kurumba01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele.mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele.sculpture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele.sculpture2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kwele05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega 09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega.bonemask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega.flatmask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega.mask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega.mask2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lega05.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="16879892">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="145" />
+    <option name="y" value="56" />
+    <option name="width" value="1472" />
+    <option name="height" value="915" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70e2ec1-9036-4657-a74a-17db9e9f885a" name="Default Changelist" comment="" />
+      <created>1553989843949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553989843949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="145" y="56" width="1472" height="915" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32937062" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32928312" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
